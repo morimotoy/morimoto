@@ -1,0 +1,161 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: "游ゴシック";
+  color: #545454;
+}
+
+.outline {
+  margin: 0 5%;
+}
+
+h1 {
+  font-size: 50px;
+  color: #ffffff;
+  font-family: serif;
+  position: absolute;
+  align-items: center;
+  top: 40%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.top{
+  position: relative;
+}
+
+#header {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  right: 0;
+  bottom: 0;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+ul {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+
+.h2title {
+  margin: 20px 0 15px 0;
+}
+
+
+
+
+.topward {
+  font-size: 25px;
+}
+
+.firsth2 {
+  margin: 0 0 30px 0;
+}
+
+.message {
+  width:100%;
+  text-align: justify;
+  font-size: 15px;
+  margin: 0 0 30px 0;
+}
+
+.message p {
+  margin: 0 0 35px 0;
+}
+
+#timeimg {
+  margin: 0 0 30px 0;
+}
+
+.name {
+  font-size: 35px;
+}
+
+.profile {
+  text-align: center;
+}
+
+.info {
+  width: 100%;
+  text-align: center;
+}
+
+#tyuui {
+  font-size: 23px;
+}
+
+.syousai {
+  display: inline-block;
+  text-align: left;
+  font-size: 40px;
+  margin: 0 0 30px 0;
+}
+
+td {
+  padding: 0 80px 0 0 ;
+}
+
+form {
+  text-align: center;
+    width: 100%;
+}
+
+.form {
+  display: inline-block;
+  text-align: left;
+  font-size: 30px;
+  margin: 0 0 30px 0;
+}
+
+.form input {
+  margin: 0 0 30px 0;
+width: 300px;
+height: 50px;
+}
+
+.form #goiken {
+  width: 300px;
+  height: 100px;
+}
+
+#sousin  {
+  font-size: 25px;
+  font-family: "游ゴシック";
+  text-align: center;
+  display: inline-block;
+  padding: 0.3em 1em;
+  text-decoration: none;
+  background-color: #EB5D00;
+  color: #ffffff;
+  border: solid 2px #EB5D00;
+  border-radius: 30px;
+  transition: .4s;
+  margin: 0 0 50px 0;
+}
+
+#sousin:hover {
+  background: #ffffff;
+  color: #EB5D00;
+}
+
+.fotter {
+background-color: #B8B4B1;
+color: #ffffff;
+display: flex;
+justify-content: space-between;
+padding: 30px 45px;
+text-align: left;
+}
+
+
+
